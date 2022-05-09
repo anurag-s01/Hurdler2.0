@@ -1,13 +1,13 @@
 {
   "name": "visualpath",
-  "homepage": "https://Suhaan-Bhandary.github.io/Path-Finding-Visualizer",
+  "homepage": "https://anurag-s01.github.io/Hurdler2.0",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
     "@testing-library/user-event": "^12.6.0",
-    "gh-pages": "^3.1.0",
+    "gh-pages": "^3.2.3",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.1",
