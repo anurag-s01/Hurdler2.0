@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Hurdler2.0/static/css/main.db0557e7.chunk.css",
+    "main.js": "/Hurdler2.0/static/js/main.421dec67.chunk.js",
+    "main.js.map": "/Hurdler2.0/static/js/main.421dec67.chunk.js.map",
+    "runtime-main.js": "/Hurdler2.0/static/js/runtime-main.3bf81763.js",
+    "runtime-main.js.map": "/Hurdler2.0/static/js/runtime-main.3bf81763.js.map",
+    "static/js/2.1d6f89a3.chunk.js": "/Hurdler2.0/static/js/2.1d6f89a3.chunk.js",
+    "static/js/2.1d6f89a3.chunk.js.map": "/Hurdler2.0/static/js/2.1d6f89a3.chunk.js.map",
+    "static/js/3.21572000.chunk.js": "/Hurdler2.0/static/js/3.21572000.chunk.js",
+    "static/js/3.21572000.chunk.js.map": "/Hurdler2.0/static/js/3.21572000.chunk.js.map",
+    "index.html": "/Hurdler2.0/index.html",
+    "static/css/main.db0557e7.chunk.css.map": "/Hurdler2.0/static/css/main.db0557e7.chunk.css.map",
+    "static/js/2.1d6f89a3.chunk.js.LICENSE.txt": "/Hurdler2.0/static/js/2.1d6f89a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bf81763.js",
+    "static/js/2.1d6f89a3.chunk.js",
+    "static/css/main.db0557e7.chunk.css",
+    "static/js/main.421dec67.chunk.js"
+  ]
+}
